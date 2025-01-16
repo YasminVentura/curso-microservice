@@ -1,0 +1,18 @@
+{
+	"info": {
+		"_postman_id": "ad9cf7cb-d219-48d3-9164-c652ed9ed344",
+		"name": "Curso Microserviços",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "34569714"
+	},
+	"item": [
+		{
+			"name": "criarPedido",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
